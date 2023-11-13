@@ -1,0 +1,19 @@
+div{
+    border: solid 1px rgb(165, 125, 44);
+    background-color: aqua;
+
+    padding: 16px;
+    margin: 5px;
+    /*width: 100px;*/
+   /* height: 100px;*/
+}
+
+span{
+    border: solid 1px;
+    display: inline-block;
+}
+
+
+p{
+    display: inline;
+}
