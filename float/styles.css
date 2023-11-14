@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: bisque;
+}
+
+img{
+    width: 400px;
+    /*usar un width o higth pq si se usa ambos no se mira proporcional*/
+}
+
+p {
+    text-align: justify;
+}
+
+#imagen1{
+    float: left;
+    margin-right: 20px;
+
+}
+#imagen2{
+    float: right;
+    margin: 0 0 0 20px;
+}
